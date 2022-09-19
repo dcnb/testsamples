@@ -1,5 +1,9 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+location,location,true
+herbarium-or-silica,herbarium-or-silica
+voucher,voucher
+herbarium-of-voucher,herbarium-of-voucher,true
+tissue-location,tissue-location,true
+published,published,true
+city,city,true
+state,state,true

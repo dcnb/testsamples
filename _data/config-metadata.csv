@@ -1,15 +1,20 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+title,title
+location,location,true
+herbarium-or-silica,herbarium-or-silica
+voucher,voucher
+herbarium-of-voucher,herbarium-of-voucher,true
+tissue-location,tissue-location,true
+extracted,extracted
+published,published
+353data,353data
+ng/uL,ng/uL
+A260/280,A260/280
+notes,notes
+city,city,true
+state,state,true
+comments-notes,comments-notes
+coll-needs,coll-needs
+FNA-name,FNA-name
+coll-time,coll-time
+coll-Cos,coll-Cos

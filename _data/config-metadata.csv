@@ -11,8 +11,10 @@ published,published
 ng/uL,ng/uL
 A260/280,A260/280
 notes,notes
-city,city,true
+county,county,true
 state,state,true
+latitude,latitude
+longitude,longitude
 comments-notes,comments-notes
 coll-needs,coll-needs
 FNA-name,FNA-name
